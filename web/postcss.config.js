@@ -13,6 +13,7 @@ module.exports = () => ({
           preserve: false
         }
       }
-    })
+    }),
+    require("tailwindcss")
   ]
 })
